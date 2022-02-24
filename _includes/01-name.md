@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Navya Kovvuri 
+## Information Systems
+### Java, HTML, Cobol, SQL
